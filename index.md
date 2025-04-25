@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog
 ---
-Hi there!
+Hi! there~
+How'u do'ing~
 [goto](./README.md)
